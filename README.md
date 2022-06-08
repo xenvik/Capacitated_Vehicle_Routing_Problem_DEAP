@@ -50,13 +50,18 @@ python -m unittest discover test
 # Visualisations
 
 We have plotted the results for the most effective routes and subroutes retireved with the implementation of the above algorithm NSGA 2 using DEAP package.
-Also results for ech genrations have been plotted to see the progress made while increasing the generations in the code.
+Also results for each genrations have been plotted to see the progress made while increasing the generations in the code. The follwong results are shown for 
+### Generation = 200, Population = 500, Crossover Probability = 0.8 and Mutation Probability = 0.02
+
+### RESULTS: Optimised Route Length = 408.1195341859591 and Optimised Number of vehicles = 7
 
 ## Most Efficient Vehicle Routing achieved in the last give generation
-![Figure_1](https://user-images.githubusercontent.com/55597813/172574416-2190b8db-cc6d-4af4-9fce-fc7b60578b7e.png)
+![Route_Input_Data_Generation200_Population500_Crossover0 8_Mutation0 02](https://user-images.githubusercontent.com/55597813/172602575-2c77ce52-45f5-424e-8751-d2b6b437d51d.png)
+
 
 ## The distance vs generations plot
-![Fitness_Input_Data_Population500_Crossover0 8_Mutation0 02_Generation200](https://user-images.githubusercontent.com/55597813/172574712-57bc2b74-1747-4064-8d7f-f58b791862cb.png)
+![Fitness_Input_Data_Generation200_Population500_Crossover0 8_Mutation0 02](https://user-images.githubusercontent.com/55597813/172602627-d347f76a-d7fe-4dfd-a73e-25586af7b3df.png)
+
 
 # Future Improvement
 
