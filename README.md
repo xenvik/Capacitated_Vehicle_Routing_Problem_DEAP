@@ -62,3 +62,7 @@ Also results for ech genrations have been plotted to see the progress made while
 
 1) Using different methods for mutations, crossover and selection can result in better performance.
 2) Using two MOO together in layers can also be effective in large dataset and optimisation e.g. DEAP and PYMOO.
+
+## License
+
+MIT License
